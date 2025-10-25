@@ -1,7 +1,7 @@
 # Lunacal- Frontend Assignment
 ## Live Demo
 
-You can view the live version of this assignment here: [Link]()
+You can view the live version of this assignment here: [Link](https://lunacal-assignment-uzer.vercel.app/)
 
 Video Demo : [Link](https://youtu.be/yAMqG3_fETw) 
 
