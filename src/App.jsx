@@ -86,7 +86,7 @@ const handleAddImage = (e) => {
               <button
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
-                className="relative flex-1 m-1 rounded-xl font-medium transition-all duration-300 overflow-hidden z-10 group"
+                className="relative flex-1 m-1 rounded-xl font-medium transition-all duration-300 overflow-hidden z-10 group rounded-lg border border-transparent px-5 py-2.5 text-base font-medium font-sans cursor-pointer transition-colors duration-200"
               >
                 <span className="w-[97%] absolute inset-0 bg-[#999] translate-x-[-120%] group-hover:translate-x-[1%] opacity-20 transition-all duration-700 ease-in-out rounded-xl"></span>
                 <span
