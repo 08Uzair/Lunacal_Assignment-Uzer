@@ -1,16 +1,16 @@
 # Lunacal- Frontend Assignment
-## Live Demo
+## Links
 
-You can view the live version of this assignment here: [Link](https://lunacal-assignment-uzer.vercel.app/)
+Live Link : [Link](https://lunacal-assignment-uzer.vercel.app/)
 
 Video Demo : [Link](https://youtu.be/yAMqG3_fETw) 
+
+GitHub Repository Link : [Link](https://github.com/08Uzair/Lunacal_Assignment-Uzer.git) 
 
 <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/b10166c4-15f4-40a4-856d-d381f1546b8d" />
 
 
-Repository
-View the source code on GitHub:
-GitHub Repository Link
+
 ## Overview
 This project is a responsive UI assignment built using **Vite**, **React**, **Tailwind CSS**, **Framer Motion**, and additional CSS for extra animations. The application replicates a Figma design, focusing on two main interactive widgets on the right-hand side while keeping the left side visually empty on laptop screens.
 
@@ -60,14 +60,12 @@ cd Lunacal_Assignment-Uzer
 Install dependencies:
 ```
 bash
-Copy code
 npm install
 ```
 
 Start the development server:
 ```
 bash
-Copy code
 npm run dev
 ```
 
@@ -83,7 +81,6 @@ Responsive View: Resize the browser to ensure the layout adapts correctly for la
 Project Structure
 ```
 bash
-Copy code
 src/
 ├─ assets/          # Images and other static assets
 ├─ components/      # React components (Tabs, Gallery, etc.)
